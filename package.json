@@ -2,6 +2,9 @@
   "name": "expressChat",
   "version": "1.0.0",
   "description": "Real time web chat with Expressjs and Socket.io",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.3.4"
